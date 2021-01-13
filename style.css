@@ -1,0 +1,25 @@
+
+
+/**/
+.logo-image{
+    height: 50px;
+}
+.shoes-card{
+    border: o;
+}
+
+.shoes-card-footer{
+    background-color: white;
+    border: 0;
+}
+.backpack-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.panda-carousel-slid .carousel-item {
+    background-color: rgb(248, 231, 231);
+    border-radius: 1em;
+}
